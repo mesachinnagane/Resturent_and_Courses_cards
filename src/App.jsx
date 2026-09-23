@@ -10,7 +10,7 @@ import Course4 from "./CourseComponant/Course4";
 const App = () => {
   return (
     <>
-      <h1>Restorent Menue</h1>
+      <h1>Restaurant Menu</h1>
       <br></br>
       <div className="cards">
         <Card1 />
