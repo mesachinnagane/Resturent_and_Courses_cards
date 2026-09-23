@@ -14,8 +14,7 @@ const Card1 = () => {
         <div className="card-body">
           <h5 className="card-title">Burger</h5>
           <p className="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card’s content.
+            Juicy burger filled with a crispy patty and fresh vegetables.
           </p>
           <a href="#" className="btn btn-primary">
             Buy Now
