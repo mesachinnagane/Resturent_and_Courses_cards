@@ -1,0 +1,12 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  margin: 25px;
+  border: 2px solid black;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
